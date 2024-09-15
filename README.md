@@ -89,9 +89,9 @@ PASS=your_password_here
 # API Base URL
 REACT_APP_API_BASE_URL=http://localhost:5173
 
-Running the Application =>
+Running the Application:
 
-Start the Backend
+  Start the Backend
 
   bash =>
 
