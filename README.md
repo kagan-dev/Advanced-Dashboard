@@ -57,7 +57,7 @@ Install Frontend Dependencies:
 
 bash =>
 
-npm install
+    npm install
 
 Start the Frontend Application:
 
