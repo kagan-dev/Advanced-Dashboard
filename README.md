@@ -130,31 +130,47 @@ If you'd like to contribute to the project, please follow these steps:
     Push your branch (git push origin feature/YourFeature)
     Open a pull request
 
-Screenshots =>
+Screenshots from frontend:
 
 Database model=>
+
 ![db1png](https://github.com/user-attachments/assets/0bae102d-31c1-41a0-95cb-befad3f4394e)
 
+
 Dark Theme=>
+
 ![dark](https://github.com/user-attachments/assets/0d65a82c-4578-4168-bdea-c5e6cca91ae1)
 
+
 Light Theme
+
 ![light](https://github.com/user-attachments/assets/3c668e43-ca28-43be-9e90-27802e692272)
 
+
 Signup Page=>
+
 ![signup](https://github.com/user-attachments/assets/450f2c3d-0f69-42e2-b098-911a450431d8)
 
+
 Login Page=>
+
 ![login](https://github.com/user-attachments/assets/64ee3312-a134-4a12-a1b6-a6909a31ab46)
 
+
 Mobile view=>
+
 ![responsive](https://github.com/user-attachments/assets/40bd3cc2-d1b2-4449-af15-833a14533283)
 
+
 Table Example=>
+
 ![box](https://github.com/user-attachments/assets/383ebab9-2a7c-47b7-acc3-dcfddcdaa89d)
 
+
 Multiselection=>
+
 ![resim](https://github.com/user-attachments/assets/bde7585a-7ab1-4e60-9782-db0ffaffb6b0)
+
 
 Contact
 
